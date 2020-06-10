@@ -94,7 +94,7 @@ The difference between missed and flipped: {difference.__round__()}.
 The longest bottle flips in a row was {flipped_in_a_row}.
     
 Thank you for using bottle flip simulator,
-Henry
+<your name>
     
         """)
     except NameError as err:
